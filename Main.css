@@ -16,7 +16,12 @@
     }
     
 }
-
+@media (min-width: 600px){
+    .data{
+        background: red;
+    }
+    
+}
 @media (min-width: 992px){
     .data{
         background: blue;
