@@ -1,0 +1,16 @@
+%table{
+    font-family: cursive;
+    font-size: 30px;
+    border:1px solid black;
+    padding: 20px;
+}
+
+tr > th{
+    @extend %table;
+    font-weight: bold;
+}
+
+tr > td {
+    @extend %table;
+    background-color: aqua;
+}
