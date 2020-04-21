@@ -1,0 +1,16 @@
+/* line 4, /Users/yatinpatel/Documents/GitHub/projec0/table.scss */
+tr > th, tr > td {
+  font-family: cursive;
+  font-size: 30px;
+  border: 1px solid black;
+  padding: 20px; }
+
+/* line 12, /Users/yatinpatel/Documents/GitHub/projec0/table.scss */
+tr > th {
+  font-weight: bold; }
+
+/* line 17, /Users/yatinpatel/Documents/GitHub/projec0/table.scss */
+tr > td {
+  background-color: aqua; }
+
+/*# sourceMappingURL=table.css.map */
