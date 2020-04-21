@@ -1,8 +1,12 @@
+$color: aqua;
+
+
 %table{
     font-family: cursive;
     font-size: 30px;
     border:1px solid black;
     padding: 20px;
+    
 }
 
 tr > th{
@@ -12,5 +16,5 @@ tr > th{
 
 tr > td {
     @extend %table;
-    background-color: aqua;
+    background-color: $color;
 }
